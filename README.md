@@ -2,7 +2,7 @@
 *@Author: Zhenglin Pan*
 *@Date: March, 2023*
 
-![ShallowJudge](https://github.com/ZhenglinPan/ShallowJudge/others/Cover_ShallowJudge.jpg)
+![ShallowJudge](https://github.com/ZhenglinPan/ShallowJudge/blob/main/others/Cover_ShallowJudge.jpg)
 
 This is a final course project for ECE 720 X50 Winter 2023, University of Alberta.
 
