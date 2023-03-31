@@ -6,6 +6,8 @@
 
 This is a final course project for ECE 720 X50 Winter 2023, University of Alberta.
 
+**Note: This project is not done yet.**
+
 1. Firstly, we obtained "benchmarks" for each layer and each class, which are representative feature maps that indicate the most frequent patterns of a class at a certain network hierarchy. For all subsequent validation or testing samples, their feature maps on various levels are compared to the respective benchmark, and the more identical a feature map is to the benchmark, the more likely it belongs to this class. This is accessed quantitatively by "similarity."
 
 2. Secondly, through kernel density estimation plots, we observed a distinct difference between positive and negative samples ("negative samples" here refers to those misclassified in this multi-class scenario) on the distribution of similarity. Negative samples tend to have a smaller similarity with the class benchmark, proving our fundamental assumption that positive and negative samples are subject to different distributions. Meanwhile, we noticed that the distributions are more contrastive on some layers, measured by the Bhattacharyya distance. In other words, some layers divide the positive and the negative well, and they are nominated as Judge Layers.
