@@ -1,6 +1,8 @@
 fashion-mnist_test.csv
 fashion-mnist_train.csv
 
+datasets/*
+*.pt
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
