@@ -1,12 +1,18 @@
 # ShallowJudge
 *@Author: Zhenglin Pan*
+
 *@Date: March, 2023*
 
-![ShallowJudge](https://github.com/ZhenglinPan/ShallowJudge/blob/main/others/Cover_ShallowJudge.jpg)
+*This is a final course project for ECE 720 X50 Winter 2023, University of Alberta.*
 
-This is a final course project for ECE 720 X50 Winter 2023, University of Alberta.
+![ShallowJudge](https://github.com/ZhenglinPan/ShallowJudge/blob/main/others/Cover_ShallowJudge.jpg)
+<a target="_blank" href="https://colab.research.google.com/github/ZhenglinPan/ShallowJudge/blob/main/src/main.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
 
 **Note: This project is not done yet.**
+
+
 
 Overview of the ShallowJudge
 ![ShallowJudge](https://github.com/ZhenglinPan/ShallowJudge/blob/main/others/Structure.png)
